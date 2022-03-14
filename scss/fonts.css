@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Verdana";
+  src: url("../fonts/Verdana.ttf") format("ttf"), url("../fonts/Verdana.woff2") format("woff2"), url("../fonts/Verdana.woff") format("woff"), url("../fonts/Verdana.eot") format("eot");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: "Verdana";
+  src: url("../fonts/Verdana-Italic.ttf") format("ttf"), url("../fonts/Verdana-Italic.woff2") format("woff2"), url("../fonts/Verdana-Italic.woff") format("woff"), url("../fonts/Verdana-Italic.eot") format("eot");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap; }
+@font-face {
+  font-family: "Verdana";
+  src: url("../fonts/Verdana-Bold.ttf") format("ttf"), url("../fonts/Verdana-Bold.woff2") format("woff2"), url("../fonts/Verdana-Bold.woff") format("woff"), url("../fonts/Verdana-Bold.eot") format("eot");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap; }
+@font-face {
+  font-family: "Verdana";
+  src: url("../fonts/Verdana-BoldItalic.ttf") format("ttf"), url("../fonts/Verdana-BoldItalic.woff2") format("woff2"), url("../fonts/Verdana-BoldItalic.woff") format("woff"), url("../fonts/Verdana-BoldItalic.eot") format("eot");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap; }
+
+/*# sourceMappingURL=fonts.css.map */
